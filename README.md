@@ -1,1 +1,1 @@
-# VHDL_Alarm_Clock
+# VHDL-alarm-clock
